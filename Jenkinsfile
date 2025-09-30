@@ -5,7 +5,7 @@ pipeline {
 	stages {
 	   stage('pipeline') {
 	      steps {
-		 echo "this is main branch"
+		 echo "this is master branch"
 		          }
 	      }
 	  }
